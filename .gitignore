@@ -1,0 +1,9 @@
+# frontend
+node_modules/
+dist/
+
+# Virtual envs
+venv*/
+
+# .env files
+.env
